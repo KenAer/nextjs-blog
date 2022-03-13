@@ -44,7 +44,7 @@ export default function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/ken_avatar_2.png"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
